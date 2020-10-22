@@ -1,12 +1,14 @@
 {
   "dependencies": {
+    "@ui-kitten/components": "^5.0.0",
     "expo": "~39.0.0",
     "expo-image-picker": "~9.1.0",
     "expo-permissions": "~9.3.0",
-    "firebase": "7.8.1",
+    "firebase": "7.9.0",
     "react": "~16.13.0",
     "react-dom": "~16.13.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.2.tar.gz",
+    "react-native-svg": "12.1.0",
     "react-native-web": "0.13.13",
     "uuid": "3.4.0"
   },
